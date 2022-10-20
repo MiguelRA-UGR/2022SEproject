@@ -81,8 +81,8 @@ GREEN.
 
 What was done this week?
 This week we worked on making the diagrams for the technical specification and began working on the software. We also started
-working with JIRA, as well and spent some time analysing the area 1 JSON file and figuring out what kind ofdata is crucial
-and what we do not actually need for our part.
+working with JIRA, as well and spent some time analysing the area 1 JSON file and figuring out what kind of data for us is
+crucial and what we do not actually need.
 
 What issues/risks/blockers do you have?
 We had some issues analysing the JSON file, since it might be a bit too complicated and encountered some trouble working with
