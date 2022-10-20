@@ -81,3 +81,22 @@ everyone successfully finished their responsibility and we managed to finish eve
 *Try to get used to using git and jiro, as well as try TDD method while coding
 
   4) Status: GREEN
+
+  2022/10/21
+  1) What was done?
+ *Reworked idea of JSON (simplified)
+ *Started coding and finding the ridge from a mock JSON
+ *Applied test driven development from the beginning (test if points are being read correctly)
+ *Template for Technical Specification
+  
+  2) What issues/blockers did we face?
+ *Talking to each other and explaining that we need less input to work more efficient and easier.
+ 
+  3) Goal for next week:
+ *Have a more or less finished Technical Specification
+ *Successfully find ridge points from simplified JSON
+ 
+  4) Status: GREEN
+ 
+  3)
+ 
