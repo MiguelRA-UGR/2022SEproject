@@ -98,5 +98,19 @@ everyone successfully finished their responsibility and we managed to finish eve
  
   4) Status: GREEN
  
-  3)
+  2022/10/28
+  1) What was done?
+  *Haven't found ridge points, but advanced in JSON digesting
+  *Created some UMLs for our Technical Specification
+  *Almost added all the content needed to our Technical Specification
+  
+  2) What issues/blockers did we face?
+  *We had some issues while trying to read JSON, getting familiar to nuanses of object mapping
+  *Deployment diagram - some troubles
+  
+  3) Goal for next week:
+  *Finish technical specification
+  *Finish reading the JSON and mapping it into classes (java objects)
+  
+  4) Status: YELLOW for coding GREEN for deadline requirements (Technical Specification)
  
