@@ -37,3 +37,22 @@ What is the goal for next week?
 
 What is the overall status?  
 - For our team Green
+
+
+27 oct
+What was done this week?
+- continued development
+- started writing TS
+
+What issues/risks/blockers do you have?
+- communication
+- need more knowledge for development
+- still some questions about TS
+
+What is the goal for next week?
+
+- We will continue working on Technical specification
+- Continue development
+
+What is the overall status?
+- For our team Green
