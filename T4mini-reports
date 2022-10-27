@@ -93,3 +93,25 @@ Continue work on our part and prepare a draft of the technical specification.
 
 What is the overall status?
 GREEN.
+
+
+2022/10/28
+
+What was done this week?
+This week we focused on technical specification. What we worked on: 
+we created a context diagram,
+created UML Deployment, Activity, Use Case diagrams,
+worked on the logic behind the software,
+made a list of tools that we are going to use.
+
+What issues/risks/blockers do you have?
+The issues that we encountered are:
+we're not sure if the diagrams that we made are done correctly,
+in some parts of the document, we're not sure if we are writing it correctly,
+we still haven't done the parts about dinamic aspects and testing.
+
+What is the goal for next week?
+Finish the technical specification document, make progress on the software.
+
+What is the overall status?
+GREEN/YELLOW.
