@@ -115,3 +115,21 @@ Finish the technical specification document, make progress on the software.
 
 What is the overall status?
 GREEN/YELLOW.
+
+
+2022/10/28
+
+What was done this week?
+This week our team made significant progress. Most importantly, we finished and submitted the technical specification document.
+Furthermore, we also started coding. What we have by now is a program that calculates the mean height of the roof, the wind
+pressure zone width and finds the point coordinates of the wind pressure zones of a simple gable roof.
+
+What issues/risks/blockers do you have?
+We still need to implement data reading from the JSON, need to look into zone calculation for roof faces that
+are different shapes (that aren't rectangles) and we need to figure out how we are going to send output.
+
+Goals for next week.
+Continue work on the software, start preparing for the upcoming presentation.
+
+What is the overall status?
+GREEN
