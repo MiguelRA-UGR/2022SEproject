@@ -113,4 +113,21 @@ everyone successfully finished their responsibility and we managed to finish eve
   *Finish reading the JSON and mapping it into classes (java objects)
   
   4) Status: YELLOW for coding GREEN for deadline requirements (Technical Specification)
+  
+  2022/11/04
+  1) What was done?
+  *Finished Technical Specification
+  *Created a program to find setback area for a simple roof using mock data
+  
+  2) What issues/blockers did we face?
+  *Finishing the Technical Specification (diagrams especially)
+  *The program will not work if RAKE points are in bad order: first should be the top point 
+   (that forms the RIDGE). Will need to solve that later.
+   *Still haven't found the way to calculate the pathway to our setback area.
+   
+   3)Goal for next week:
+   *Apply tests to the current program
+   *Read JSON data and then use the program to solve our problem
+   
+   4) Status: GREEN (advanced in coding very much, the hardest job is probably done)
  
