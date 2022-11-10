@@ -133,3 +133,22 @@ Continue work on the software, start preparing for the upcoming presentation.
 
 What is the overall status?
 GREEN
+
+
+2022/11/11
+
+What was done?
+This week we mostly progressed on the software itself. Most importantly, we implemented code to read the JSON file
+and started pushing the code to GitHub. Furthermore, we got in contact with lecturer Gediminas and discussed the
+logic behind how the software should work and how it should be tested.
+
+What issues/risks/blockers do you have?
+We are having trouble figuring out the logic behind working with triangle shaped roof faces. We need to expand our
+testing.
+
+GoalS for next week:
+1. Work on the logic.
+2. Continue work on the software.
+3. Prepare the presentation.
+   
+Status: GREEN/YELLOW
