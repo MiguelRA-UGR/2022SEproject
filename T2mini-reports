@@ -130,4 +130,18 @@ everyone successfully finished their responsibility and we managed to finish eve
    *Read JSON data and then use the program to solve our problem
    
    4) Status: GREEN (advanced in coding very much, the hardest job is probably done)
+   
+   2022/11/11
+   1) What was done?
+   *Uploaded spine code to github, everybody successfully pulled it and it works for them. 
+    Will continue building on this backend part: apply tests and json reading
+    
+   2) What issues/blockers did we face?
+   *Couldn't start building automated tests on the project from github (some kind of folder problems)
+   
+   3) Goal for next week:
+   *Apply tests to the current program
+   *Read JSON data and then use the program to solve our problem
+   
+   4) Status: YELLOW (haven't progressed in coding itself)
  
