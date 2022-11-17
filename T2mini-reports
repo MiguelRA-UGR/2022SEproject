@@ -144,4 +144,19 @@ everyone successfully finished their responsibility and we managed to finish eve
    *Read JSON data and then use the program to solve our problem
    
    4) Status: YELLOW (haven't progressed in coding itself)
- 
+   
+   2022/11/18
+   1) What was done?
+   *Added automated test to the program
+   *Fixed technical specification
+   *Prepared for mid-term presentation
+   
+   2) What issues/blockers did we face?
+   *Adding required test dependancies to the existing program on github
+   
+   3) Goal for next week:
+   *More automated tests
+   *Start working on deeper code complexity (for more complicated roofs)
+   *Read JSON data and then use the program to solve our problem
+   
+   4) Status: GREEN
