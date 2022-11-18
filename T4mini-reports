@@ -146,9 +146,25 @@ What issues/risks/blockers do you have?
 We are having trouble figuring out the logic behind working with triangle shaped roof faces. We need to expand our
 testing.
 
-GoalS for next week:
+Goals for next week:
 1. Work on the logic.
 2. Continue work on the software.
 3. Prepare the presentation.
    
 Status: GREEN/YELLOW
+
+
+2022/11/18
+
+What was done?
+This week we prepared our part of the mid-term project presentation. In order to achieve that, we held a team leader meeting
+and a meeting of our team members as well. Nevertheless, we also made some progress on the software and its testing.
+
+What issues/risks/blockers do you have?
+We had trouble communicating between teams and getting everyone to send their parts. TConcequentally, the project
+presentation was finished late in the week and thus, there was little time to prepare the speech.
+
+Goals for next week:
+Start implementing support for different roof face types in the software. 
+   
+Status: GREEN
